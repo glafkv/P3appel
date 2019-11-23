@@ -1,0 +1,20 @@
+Local option!!
+
+
+
+
+By: Gabi Appel
+Due: 11/24/2019
+
+
+
+To Run:
+	make 			- to compile
+	statSem <filename>	- to specify a file(can be done with or without .fs19 extension)
+	statSem < <filename>	- pipes input from file
+	statSem 		- allows user input
+
+Current problems:
+I test it with the good files and they all work fine.
+Some of the bad files are coming out OK even though they shouldn't be.
+Can't seem to figure out why.
